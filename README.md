@@ -7,6 +7,7 @@
 * Prepare for interviews.
 
 ## Repository Structure 
+```text
 leetcode-solutions
 |── code/
 │   |── cpp/
