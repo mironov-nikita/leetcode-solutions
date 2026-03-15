@@ -1,4 +1,5 @@
 # Name: longest common prefix
+# Topics: Arrays, Strings
 # Difficulty: Easy
 # Time Complexity: O(n)  n - all symbols
 # Space Complexity: O(m) m - the shortest word
