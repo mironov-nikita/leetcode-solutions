@@ -1,4 +1,5 @@
 # Name: Two Sum
+# Topics: Arrays, Hash Table
 # Difficulty: Easy
 # Time Complexity: O(n)
 # Space Complexity: O(n)
