@@ -9,14 +9,13 @@
 [mironov-nikita](https://leetcode.com/u/JustUser89/)
 ## Repository Structure 
 ```text
-leetcode-solutions
+leetcode-solutions/
 |── code/
 │   |── cpp/
-│   │   |── arrays/
-│   │   │   |── e0001-two-sum.cpp
-│   │   |── graphs/
+│   │   │── e0001-two-sum.cpp
+│   │   |
 │   |── python/
-│       |── arrays/
-│       │   |── e0001-two-sum.py
-│       |── strings/
+│       |── e0001-two-sum.py
 |── README.md
+
+
